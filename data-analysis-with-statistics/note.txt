@@ -1,0 +1,11 @@
+# What is Statistics?
+=> Statistics is a branch of applied mathematics that involves the collection, description, analysis, and inference of conclusions from quantitative data.
+1. Descriptive Statistics is a deals with summarizing and describing the main features of a dataset
+2. Inferential Statistics is a involves making inferences, predictions, or generalizations about a large population based on data collected from a sample of that population
+
+# Measures of Variability
+=> 4 measures:
+1. Variance
+2. Standard Deviation
+3. Range
+4. Quartile
