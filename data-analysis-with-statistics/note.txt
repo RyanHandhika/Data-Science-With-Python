@@ -9,3 +9,6 @@
 2. Standard Deviation
 3. Range
 4. Quartile
+
+# What is Data Distribution
+=> 
